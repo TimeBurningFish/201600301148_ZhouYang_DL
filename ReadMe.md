@@ -10,6 +10,7 @@
 * 3 华为云使用
 * 4 风格迁移
 * 5 字符生成min-char-rnn
+* 6 cGAN & cDCGAN in Fashion Mnist
 
 ## 联系方式
 >> QQ:862077860
